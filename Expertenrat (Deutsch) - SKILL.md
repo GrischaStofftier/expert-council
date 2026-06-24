@@ -169,4 +169,25 @@ Den Arbeitgeber fragen, wie flexibel der Starttermin ist.
 
 ---
 
+## Authentizität & blinder Fleck, geschärft
+- Dissens nicht erzwingen — konvergieren die Berater ehrlich, sag es; das Signal ist *wo* sie auseinandergehen und *warum*.
+- Ein blinder Fleck ≠ ein lauterer Einzelpunkt: eine querliegende Annahme, die alle fünf teilen, nur nebeneinander sichtbar.
+
+## Adaptive Tiefe
+Schnellpfad (klarer Fork): fünf knappe Stimmen, kompaktes Kreuzfeuer. Tiefenpfad (hoher Einsatz): vollere Stimmen + gründlicher Blindfleck-Durchgang. Für die größten, schwer umkehrbaren Forks auf den großen Rat (11 Berater) verweisen.
+
+## Worked Example (kompakt)
+Kurzer Durchlauf zu „Preise verdoppeln oder halten?": Kern der fünf Stimmen, ein echter Blindfleck aus dem Kreuzfeuer, Urteil + eine Montag-Handlung.
+
+## Selbstcheck (vor Auslieferung)
+- [ ] fünf Stimmen distinkt; [ ] echter querliegender Blindfleck; [ ] Urteil kein „kommt drauf an"; [ ] genau EINE Montag-Handlung.
+
+## Capabilities & Handoff
+Läuft inline; optional Recherche-Skill für Zahlen. Übergabe an: großer Rat/council-pro (eskalieren), skill:heikles-gespraech, skill:morgen-briefing (Handlung terminieren).
+
+---
+Version 1.1.0 · Changelog: high-class — Blindfleck/Authentizität geschärft, Adaptive Tiefe, Worked Example, Selbstcheck, Capabilities/Handoff.
+
+---
+
 Methodik von Andrej Karpathy (LLM Council). Claude-Chat-Adaption auf Deutsch.

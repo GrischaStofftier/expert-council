@@ -214,3 +214,35 @@ Format:
 ## When the response runs long
 
 If the total response gets too long, the voices are too wordy. Trim each voice to 3–4 sentences. The power of the council comes from the sharpness of each individual voice, not from its length. Five sharp blades beat five soft brushes.
+
+---
+
+## Authenticity & the blind spot, sharpened
+
+- Don't force disagreement — if voices converge, say so; the signal is where they diverge and why.
+- A blind spot ≠ a louder Stage-1 point: a cross-cutting assumption all five share, visible only side by side.
+
+## Adaptive depth
+
+Fast path (clear fork): five tight voices, compact peer review. Deep path (high stakes): fuller voices + thorough blind-spot pass. For the biggest hard-to-reverse forks, point to the 11-voice Council Pro.
+
+## Worked example (compressed)
+
+Question: **"Raise my rates 2× or hold?"**
+
+**Stage 1 (gist).** Skeptic: doubling sheds your price-sensitive base before the premium base trusts you. Philosopher: the real question is who you want as clients, not what you charge. Visionary: at 2× with half the clients you keep the same revenue and buy back time to build leverage. Outsider: why is "2×" the choice — what about 1.4×? Operator: pick three clients, quote the new rate next week, watch what they do.
+
+**Stage 2 blind spot.** All five argued the *number*. None asked whether the offer itself justifies a premium — the rate is downstream of positioning, and a price hike on an undifferentiated offer just speeds up churn.
+
+**Stage 3 verdict.** Raise — but not to a number, to a repositioned offer; 2× is the floor once the offer earns it, not the move itself. **Monday:** rewrite the offer page around one outcome and quote the new rate to the next inbound lead by Friday; minimum result is one real reaction to the new price.
+
+## Self-check (before delivering)
+
+- [ ] all 5 voices distinct; [ ] real cross-cutting blind spot; [ ] verdict not "it depends"; [ ] exactly ONE Monday action.
+
+## Capabilities & handoff
+
+Runs inline; optional research skill to ground numbers. Hands off to Council Pro (escalate), a difficult-conversation skill, or a daily-briefing skill (schedule the action).
+
+---
+Version 1.1.0 · Changelog: high-class — sharpened blind spot/authenticity, adaptive depth, worked example, self-check, capabilities/handoff.

@@ -25,6 +25,8 @@ Inspired by [Andrej Karpathy's LLM Council](https://github.com/karpathy/llm-coun
 
 `/council` · "convene the council" · "summon the council" · "ask the council" · "council this"
 
+**Council Pro** — for the biggest, hardest-to-reverse forks there's a heavyweight variant: `/council-pro` ("großer rat") runs **eleven** advisors (the five above plus the Historian, Devil's Advocate, Economist, Customer, Strategist, Steward) and adds a **Minority Report** — the strongest dissent the Chair overrules. See `Council Pro.md` / `Council Pro (Deutsch) - SKILL.md`.
+
 ## What to council
 
 The council was built for decisions where being wrong is expensive and you've been circling for days. Pricing. Hiring vs automation. Niching down vs broadening. Bootstrapping vs raising. Any fork in the road where you keep going back and forth.

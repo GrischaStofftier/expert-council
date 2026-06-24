@@ -219,4 +219,44 @@ Format:
 
 ---
 
+## Authenticity & the blind spot, sharpened
+
+- Don't force disagreement — if voices genuinely converge, say so; the signal is where they diverge and why.
+- A blind spot ≠ a louder Stage-1 point: it's a cross-cutting assumption all eleven share, visible only side by side.
+
+## Adversarial self-verification (Chair, before committing)
+
+Name the verdict's load-bearing assumption, try to break it in 1–2 sentences; if it breaks, the verdict changes. Then calibrate confidence high/medium/low + the one fact that would move it.
+
+## Minority Report — what makes a dissent strongest
+
+Not the loudest: highest cost if right + a concrete early signal. Name lens, warning, signal.
+
+## Adaptive depth
+
+Fast path (well-scoped fork): 11 tight voices, compact peer review. Deep path (many stakeholders/uncertainty): fuller voices + explicit adversarial verification. Scale words to stakes.
+
+## Worked example (compressed)
+
+**Q: "Sell now or raise a Series A?"**
+
+*Stage 1 (gist):* 🔴 Skeptic — your growth curve already bent; a raise prices in momentum you no longer have. 📊 Economist — at a 4× ARR offer vs. a likely flat-to-down round, the sale's expected value beats the dilution math. 🚀 Visionary — the category is about to triple; selling now caps you at 1× a 10× story. ♟️ Strategist — two rivals just raised; staying private means competing under-capitalized.
+
+*Stage 2 — what all eleven missed:* every voice argued price and odds; none asked whether the founder still *wants* to run this company for the five more years a raise demands. The cross-cutting assumption was "maximize outcome," not "match the founder's appetite."
+
+*Stage 3 — verdict:* Sell, if the diligence holds — the upside case requires energy the founder hasn't signaled. **Monday:** ask the lead acquirer for a written term sheet with a 2-week exclusivity cap; minimum result — a real number on paper. **Minority Report:** 🚀 Visionary — if the category triples on schedule, selling now is the regret you can't undo; early signal — two consecutive quarters of re-accelerating net-new logos before close.
+
+## Self-check (before delivering)
+
+- [ ] all 11 voices distinct; [ ] real cross-cutting blind spot; [ ] verdict not "it depends", confidence calibrated; [ ] exactly ONE Monday action + Minority Report with early signal.
+
+## Capabilities & handoff
+
+Runs inline; optional pre-grounding via a research skill. Hands off to a difficult-conversation skill / a daily-briefing skill to schedule the action.
+
+---
+Version 1.1.0 · Changelog: high-class — sharpened blind spot/authenticity, adversarial self-verification + confidence, adaptive depth, worked example, self-check, capabilities/handoff.
+
+---
+
 Methodology by Andrej Karpathy (LLM Council). Claude-session adaptation — PRO (eleven voices + Minority Report).

@@ -142,4 +142,31 @@ Nur auf Wunsch: ein sauberes HTML-Artifact mit Frage, Urteil prominent, Minderhe
 
 ---
 
+## Authentizität & blinder Fleck, geschärft
+- Dissens nicht erzwingen — konvergieren Stimmen ehrlich, sag es; das Signal ist *wo* sie auseinandergehen und *warum*.
+- Ein blinder Fleck ≠ ein lauterer Stage-1-Punkt: eine querliegende Annahme, die alle elf teilen, nur nebeneinander sichtbar.
+
+## Adversariale Selbst-Verifikation (Vorsitz, vor dem Urteil)
+Tragende Annahme des Urteils benennen, in 1–2 Sätzen zu widerlegen versuchen; bricht sie, ändert sich das Urteil. Dann Konfidenz kalibrieren (hoch/mittel/niedrig) + das eine Faktum, das sie kippt.
+
+## Minderheitsvotum — was einen Einwand „am stärksten" macht
+Nicht der lauteste: höchste Kosten falls zutreffend + ein konkretes Frühsignal. Linse, Warnung, Signal nennen.
+
+## Adaptive Tiefe
+Schnellpfad (klar umrissen): 11 knappe Stimmen, kompaktes Kreuzfeuer. Tiefenpfad (viele Beteiligte/Unsicherheit): vollere Stimmen + ausführliche adversariale Verifikation. Wortzahl mit Einsatz skalieren.
+
+## Worked Example (kompakt)
+Kurzer Durchlauf zu „Jetzt verkaufen oder Series A raisen?": Stage-1-Kern (einige Stimmen), ein echter Stage-2-Blindfleck, Stage-3-Urteil + eine Montag-Handlung + Minderheitsvotum mit Frühsignal.
+
+## Selbstcheck (vor Auslieferung)
+- [ ] 11 Stimmen distinkt; [ ] echter querliegender Blindfleck; [ ] Urteil kein „kommt drauf an", Konfidenz kalibriert; [ ] genau EINE Montag-Handlung + Minderheitsvotum mit Frühsignal.
+
+## Capabilities & Handoff
+Läuft inline; optional Vorab-Recherche-Skill. Übergabe an: skill:heikles-gespraech / skill:morgen-briefing (Handlung terminieren).
+
+---
+Version 1.1.0 · Changelog: high-class — Blindfleck/Authentizität geschärft, adversariale Selbst-Verifikation + Konfidenz, Adaptive Tiefe, Worked Example, Selbstcheck, Capabilities/Handoff.
+
+---
+
 Methodik von Andrej Karpathy (LLM Council). Claude-Chat-Adaption auf Deutsch – PRO (elf Stimmen + Minderheitsvotum).
